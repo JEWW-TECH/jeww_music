@@ -1,0 +1,105 @@
+@media (min-width: 800px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0;
+    }
+    
+    header {
+        display: none;
+    }
+    
+    header logo {
+        display: none;
+    }
+    
+    main {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        padding: 0;
+        margin-top: 0;
+    }
+    
+    .sidebar-mobile {
+        display: none;
+    }
+    
+    .sidebar-desktop {
+        width: 20%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        overflow: auto;
+        padding: 15px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .main-contents {
+        position: relative;
+        margin-right: -5% !important;
+        bottom: 0;
+        margin: auto;
+        right: 0;
+        overflow: auto;
+        z-index: 1;
+        width: 80% !important;
+    }
+    
+    #music-player {
+        left: 0;
+        width: 250px;
+    }
+    
+    .desktop-nav {
+        width: 100%;
+        height: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: 10px;
+        z-index: 5;
+        background: var(--secondary-color);
+        transform: translateY(100px);
+    }
+    
+    .desktop-nav a {
+        width: 100%;
+        font-family: main;
+        text-decoration: none;
+        height: 40px;
+        background: linear-gradient(45deg, var(--main-color), #DA119A);
+        -webkit-background-clip: text;
+        background-clip: text;
+        font-size: 15pt;
+        color: transparent;
+    }
+    
+    .desktop-nav .list-li {
+        overflow: visible !important;
+    }
+    
+    .sidebar-desktop .logo {
+        position: fixed;
+        top: 0;
+        width: 50% !important;
+        overflow: auto;
+        z-index: 100;
+        backdrop-filter: blur(40px);
+    }
+    
+}
+
+@media (max-width: 700px) {
+    .sidebar-desktop {
+        display: none;
+    }
+    
+}

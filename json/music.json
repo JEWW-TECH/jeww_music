@@ -1,0 +1,139 @@
+[
+    {
+        "index": 0,
+        "title": "You and I",
+        "music": "/assets/musics/You and I.mp3",
+        "genres": "Electronic, Pop, Dreamy-synth",
+        "poster": "/assets/images/b8b3532252c399bc3e6327c867ac4744.jpg",
+        "video": "style.css"
+    },
+    {
+        "index": 1,
+        "title": "Forever in your Light",
+        "music": "/assets/musics/Forever-in-your-light.mp3",
+        "genres": "Pop, piano, Dance",
+        "poster": "/assets/images/ed667b4dd3b9b57d4e1b7d6c27e2b5bc.jpg"
+    },
+    {
+        "index": 2,
+        "title": "Fire Burning Within Me",
+        "music": "/assets/musics/Fire Burning Within Me.mp3",
+        "genres": "Gospel, Rock, Christian-rock",
+        "poster": "/assets/images/fae49aebed267bdb986ebc83128959b8.jpg"
+    },
+    {
+        "index": 3,
+        "title": "Alive Together",
+        "music": "/assets/musics/Alive together.mp3",
+        "genres": "Rap, UK-drill",
+        "poster": "/assets/images/fcbcbc3514947fc0e33b738a8910e1f7.jpg"
+    },
+    {
+        "index": 4,
+        "title": "Fire of the Spirit",
+        "music": "/assets/musics/Fire of the spirit.mp3",
+        "genres": "Gospel, Christian-rock, Passionate",
+        "poster": "/assets/images/ed123cbfae1529e28db3625de8b4fd0f.jpg"
+    },
+    {
+        "index": 5,
+        "title": "Forever Naija(drill)",
+        "music": "/assets/musics/Forever naija(drill).mp3",
+        "genres": "Afro-Drill",
+        "poster": "/assets/images/dc92401af4441e0486893af0a63d1556.jpg"
+    },
+    {
+        "index": 6,
+        "title": "Holy Spirit",
+        "music": "/assets/musics/Holy Spirit.mp3",
+        "genres": "Gospel, Electronic, Dance",
+        "poster": "/assets/images/c538a0ac64e795dda81c54ac79bcc549.jpg"
+    },
+    {
+        "index": 7,
+        "title": "Love in your Arm Tonight",
+        "music": "/assets/musics/Love in your arms tonight.mp3",
+        "genres": "Electronic, Dreamy-synth, Disco",
+        "poster": "/assets/images/e6e14d835583339082dc138443d65dce.jpg"
+    },
+    {
+        "index": 8,
+        "title": "Together Among the Stars",
+        "music": "/assets/musics/Together among the stars.mp3",
+        "genres": "Pop",
+        "poster": "/assets/images/c047cac001c25b6356b82cf4d505646a.jpg"
+    },
+    {
+        "index": 9,
+        "title": "Truth Reality",
+        "music": "/assets/musics/Truth Reality.mp3",
+        "genres": "Pop, Cosmos-lounge",
+        "poster": "/assets/images/c00bde47c97369485de268286ad47c0a.jpg"
+    },
+    {
+        "index": 10,
+        "title": "Whisper of the Red Moon",
+        "music": "/assets/musics/Whisper of the red moon.mp3",
+        "genres": "Rock, Passionate, Chinese",
+        "poster": "/assets/images/57e485a53fbc8b6cf7c15ce08cc9f45a.jpg"
+    },
+    {
+        "index": "11",
+        "title": "Block on the Glory",
+        "music": "/assets/musics/Block on the Glory.mp3",
+        "genres": "Gospel, Rap, UK-drill",
+        "poster": "/assets/images/a45ba4e6a4a2d7379f025921440223d6.jpg"
+    },
+    {
+        "index": "12",
+        "title": "Once upon a Future",
+        "music": "/assets/musics/Once upon a future.mp3",
+        "genres": "Pop, Pop-Ballad, Dreamy-Synth, Futuristic",
+        "poster": "/assets/images/bf13089c6ab364574857f11655117ab4.jpg"
+    },
+    {
+        "index": "13",
+        "title": "Echoes of Love",
+        "music": "/assets/musics/Echoes of Love.mp3",
+        "genres": "Piano, Uplifting",
+        "poster": "/assets/images/574717a2a9e9da6886c4cc5bf3cd6e09.jpg"
+    },
+    {
+        "index": "14",
+        "title": "Echoes of Love v2",
+        "music": "/assets/musics/Echoes of Love v2.mp3",
+        "genres": "Pop, Dance",
+        "poster": "/assets/images/574717a2a9e9da6886c4cc5bf3cd6e09.jpg"
+    },
+    {
+        "index": "15",
+        "title": "Grace above Grace",
+        "music": "/assets/musics/Grace above Grace.wav",
+        "genres": "Gospel, Worship, Soul-lifting, Passionate",
+        "poster": "/assets/images/a45ba4e6a4a2d7379f025921440223d6.jpg"
+    },
+    {
+        "index": "16",
+        "title": "Grace above Grace v2",
+        "music": "/assets/musics/Grace above Grace v2.wav",
+        "genres": "Gospel, Worship, Soul-lifting, Passionate",
+        "poster": "/assets/images/a45ba4e6a4a2d7379f025921440223d6.jpg"
+    },
+    {
+        "index": "17",
+        "title": "Sirf Ek (One & Only)",
+        "music": "/assets/musics/Sirf Ek (one and only).mp3",
+        "genres": "Acoustic, Passionate, Ballad, Indian",
+        "poster": "/assets/images/a602c6bac86fa60dee09d01e3164fe77.jpg"
+        
+    },
+    
+    {
+        "index": "18",
+        "title": "Shade My Love",
+        "music": "/assets/musics/Shade my love v2.mp3",
+        "genres": "Afro-Ballad, Afro-Pop",
+        "poster": "/assets/images/b38c47dc4f480a83601c8616db01cc53.jpg"
+    }
+    
+]
